@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="DotNetCore.CAP" Version="3.1.2" />
+        <PackageReference Include="DotNetCore.CAP.MySql" Version="3.1.2" />
+        <PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="3.1.2" />
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.13" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.13" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.13" />
+        <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.22" />
+<!--                <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.2.4" />-->
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\Aspros.Project.User.Application\Aspros.Project.User.Application.csproj" />
+        <ProjectReference Include="..\Aspros.Project.User.Domain.Repository\Aspros.Project.User.Domain.Repository.csproj" />
+        <ProjectReference Include="..\Aspros.Project.User.Domain\Aspros.Project.User.Domain.csproj" />
+        <ProjectReference Include="..\Aspros.Project.User.Infrastructure.Repository\Aspros.Project.User.Infrastructure.Repository.csproj" />
+        <ProjectReference Include="..\Aspros.Project.User.Repository\Aspros.Project.User.Repository.csproj" />
+    </ItemGroup>
+
+</Project>

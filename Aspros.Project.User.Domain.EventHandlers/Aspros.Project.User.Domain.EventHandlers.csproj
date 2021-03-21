@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Aspros.Project.User.Domain.EventHanlders</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Aspros.Project.User.Domain.Events\Aspros.Project.User.Domain.Events.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Aspros.Project.User.Application.Service\Aspros.Project.User.Application.Service.csproj" />
+      <ProjectReference Include="..\Aspros.Project.User.Domain.Repository\Aspros.Project.User.Domain.Repository.csproj" />
+      <ProjectReference Include="..\Aspros.Project.User.Infrastructure.Repository\Aspros.Project.User.Infrastructure.Repository.csproj" />
+    </ItemGroup>
+
+</Project>

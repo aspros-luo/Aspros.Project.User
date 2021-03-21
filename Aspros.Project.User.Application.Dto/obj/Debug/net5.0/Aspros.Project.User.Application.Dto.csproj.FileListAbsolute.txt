@@ -1,0 +1,11 @@
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/bin/Debug/net5.0/Aspros.Project.User.Application.Dto.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/bin/Debug/net5.0/Aspros.Project.User.Application.Dto.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/bin/Debug/net5.0/ref/Aspros.Project.User.Application.Dto.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/bin/Debug/net5.0/Aspros.Project.User.Application.Dto.pdb
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/ref/Aspros.Project.User.Application.Dto.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.pdb

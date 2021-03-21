@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjHgkh5DMfXdTs93CohRYuHjZPo0clVv9JupP3D0dPsTBF27rqjsy2umsSIdAOX0gZzGnJizRn5X5KDh8l1btg==",
+  "success": true,
+  "projectFilePath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/Aspros.Project.User.Application.Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/kk/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

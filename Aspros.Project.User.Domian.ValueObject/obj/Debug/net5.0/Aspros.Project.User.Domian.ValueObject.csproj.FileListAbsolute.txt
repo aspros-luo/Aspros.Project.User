@@ -1,0 +1,12 @@
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/bin/Debug/net5.0/ref/Aspros.Project.User.Domian.ValueObject.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.csprojAssemblyReference.cache
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/ref/Aspros.Project.User.Domian.ValueObject.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb

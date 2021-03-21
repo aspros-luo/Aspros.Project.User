@@ -1,0 +1,17 @@
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/bin/Debug/net5.0/ref/Aspros.Project.User.Domain.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.pdb
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.csprojAssemblyReference.cache
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.csproj.CopyComplete
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/Debug/net5.0/ref/Aspros.Project.User.Domain.dll
+/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aspros.Project.User.Domain.Service/1.0.0": {
+        "runtime": {
+          "Aspros.Project.User.Domain.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aspros.Project.User.Domain.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
