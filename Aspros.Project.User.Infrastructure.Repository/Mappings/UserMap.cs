@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Aspros.Project.User.Domain;
+
 namespace Aspros.Project.User.Infrastructure.Repository.Mappings
 {
     public class UserMap : ModelBuilderExtenions.EntityMappingConfiguration<Domain.User>

@@ -1,15 +1,14 @@
-
 using Aspros.Project.User.Application.Commands;
 using Aspros.Project.User.Application.Queries;
+using Aspros.Project.User.BootStrapping;
+using Infrastructure.Consul.Core.Configuration;
+using Infrastructure.Ioc.Core;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Aspros.Project.User.BootStrapping;
-using Infrastructure.Consul.Core.Configuration;
-using Infrastructure.Ioc.Core;
 using Newtonsoft.Json;
-using MediatR;
 
 namespace Aspros.Project.User.Api
 {
@@ -20,8 +19,8 @@ namespace Aspros.Project.User.Api
             var builder = new ConfigurationBuilder()
                 .SetBasePath(env.ContentRootPath)
                 .AddJsonConsul(Program.ConfigurationRegister)
-                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
-                .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
+                .AddJsonFile("appsettings.json", false, true)
+                .AddJsonFile($"appsettings.{env.EnvironmentName}.json", true)
                 .AddEnvironmentVariables();
             Configuration = builder.Build();
         }
@@ -45,7 +44,7 @@ namespace Aspros.Project.User.Api
                     options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
                     options.SerializerSettings.DateFormatString = "yyyy-MM-dd HH:mm";
                 });
-                
+
             //验证授权地址
             services.AddAuthentication("Bearer")
                 .AddJwtBearer("Bearer", options =>
@@ -60,7 +59,6 @@ namespace Aspros.Project.User.Api
                 options.InstanceName = "";
                 options.Configuration = Configuration["SP_BasicSetting:RedisServer"];
             });
-        
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -71,11 +69,8 @@ namespace Aspros.Project.User.Api
             app.UseAuthentication();
 
             app.UseRouting();
-            
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapControllers();
-            });
+
+            app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
             // swagger
             // app.UseSwagger(c => { c.RouteTemplate = "{documentName}/swagger.json"; });
             // app.UseSwaggerUI(s => { s.SwaggerEndpoint($"/{Program.ServiceName}/swagger.json", Program.ServiceName); });

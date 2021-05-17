@@ -1,5 +1,4 @@
-﻿using System;
-using Infrastructure.Domain.Core;
+﻿using Infrastructure.Domain.Core;
 using Infrastructure.Interfaces.Core.Event;
 
 namespace Aspros.Project.User.Domain.Events

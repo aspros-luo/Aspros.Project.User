@@ -6,10 +6,11 @@ using MediatR;
 
 namespace Aspros.Project.User.Application.Commands.Handlers
 {
-    public class UserCreateCommandHandler:IRequestHandler<UserCreateCommand,long>
+    public class UserCreateCommandHandler : IRequestHandler<UserCreateCommand, long>
     {
-        private readonly IUserRepository _userRepository;
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IUserRepository _userRepository;
+
         public UserCreateCommandHandler(IUserRepository userRepository, IUnitOfWork unitOfWork)
         {
             _userRepository = userRepository;

@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace Aspros.Project.User.Application.Dto
+﻿namespace Aspros.Project.User.Application.Dto
 {
     public class CreateUserModel
     {
-        public string userName;
+        public string idNo;
         public string password;
         public string realName;
-        public string idNo;
+        public string userName;
     }
 }

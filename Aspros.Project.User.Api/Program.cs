@@ -39,9 +39,11 @@ namespace Aspros.Project.User.Api
             host.Run();
         }
 
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
+        public static IHostBuilder CreateHostBuilder(string[] args)
+        {
+            return Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder => { webBuilder.UseStartup<Startup>(); });
+        }
 
         public static void InitConfiguration()
         {
@@ -55,10 +57,7 @@ namespace Aspros.Project.User.Api
         public static void ServiceRegister(string serviceName)
         {
             var ipAddress = ServiceRegistryExtensions.GetLocalIpAddress();
-            if (string.IsNullOrWhiteSpace(ipAddress))
-            {
-                throw new Exception("can't get server ip address.");
-            }
+            if (string.IsNullOrWhiteSpace(ipAddress)) throw new Exception("can't get server ip address.");
 
             ServiceRegistry = new ServiceRegister(IPAddress.Parse(ipAddress), 4379);
             ServiceRegistry

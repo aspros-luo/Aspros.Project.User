@@ -25,9 +25,9 @@ namespace Aspros.Project.User.Domain
 
         public long Id { get; set; }
 
-        public string Name { get; private set; }
+        public string Name { get; }
 
-        public string Password { get; private set; }
+        public string Password { get; }
 
         public virtual UserIdentity UserIdentity { get; set; }
 

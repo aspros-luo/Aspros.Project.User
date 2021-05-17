@@ -18,10 +18,7 @@ namespace Aspros.Project.User.Api.Controllers
                 client.DefaultRequestHeaders.Add("KeepAlive", "True");
                 client.DefaultRequestHeaders.Add("Timeout", "5");
                 var message = await client.GetAsync("http://127.0.0.1:9998/health");
-                if (message.IsSuccessStatusCode)
-                {
-                    return Ok("ok");
-                }
+                if (message.IsSuccessStatusCode) return Ok("ok");
 
                 return BadRequest("fabio error");
             }

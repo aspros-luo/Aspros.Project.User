@@ -24,15 +24,13 @@ namespace Aspros.Project.User.Infrastructure.Repository
         }
 
         /// <summary>
-        /// AddEntityConfigurationsFromAssembly 是对 ModelBuilder 的扩展，用于多个实体映射配置，OnModelCreating 中只需一行代码
+        ///     AddEntityConfigurationsFromAssembly 是对 ModelBuilder 的扩展，用于多个实体映射配置，OnModelCreating 中只需一行代码
         /// </summary>
         public static void AddEntityConfigurationsFromAssembly(this ModelBuilder modelBuilder, Assembly assembly)
         {
             var mappingTypes = assembly.GetMappingTypes(typeof(IEntityMappingConfiguration<>));
             foreach (var config in mappingTypes.Select(Activator.CreateInstance).Cast<IEntityMappingConfiguration>())
-            {
                 config.Map(modelBuilder);
-            }
         }
 
         public interface IEntityMappingConfiguration

@@ -1,5 +1,4 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 using Aspros.Project.User.Domain.Repository;
 using Infrastructure.Domain.Core;
 using Infrastructure.Interfaces.Core.Interface;

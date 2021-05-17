@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Aspros.Project.User.Application.Queries.Handlers
 {
-    public class UserGetQueryHandler:IRequestHandler<UserGetQuery,Domain.User>
+    public class UserGetQueryHandler : IRequestHandler<UserGetQuery, Domain.User>
     {
         private readonly IUserRepository _userRepository;
 
@@ -17,7 +17,7 @@ namespace Aspros.Project.User.Application.Queries.Handlers
 
         public async Task<Domain.User> Handle(UserGetQuery request, CancellationToken cancellationToken)
         {
-            var user =await  _userRepository.GetIdentityById(request.UserId).FirstOrDefaultAsync(cancellationToken: cancellationToken);
+            var user = await _userRepository.GetIdentityById(request.UserId).FirstOrDefaultAsync(cancellationToken);
             return user;
         }
     }

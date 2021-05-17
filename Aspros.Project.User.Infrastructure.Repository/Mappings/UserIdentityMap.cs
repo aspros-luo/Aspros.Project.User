@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Aspros.Project.User.Infrastructure.Repository.Mappings
 {
-    public class UserIdentityMap: ModelBuilderExtenions.EntityMappingConfiguration<UserIdentity>
+    public class UserIdentityMap : ModelBuilderExtenions.EntityMappingConfiguration<UserIdentity>
     {
         public override void Map(EntityTypeBuilder<UserIdentity> entityTypeBuilder)
         {

@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Aspros.Project.User.Domain.Events;
 using Infrastructure.Interfaces.Core.Event;
 using Infrastructure.Interfaces.Core.Interface;
@@ -15,7 +14,9 @@ namespace Aspros.Project.User.Domain.EventHandlers
 
         public UserEventHandler(IHttpContextAccessor httpContextAccessor)
         {
-            _unitOfWork = httpContextAccessor.HttpContext is null ? ServiceLocator.Instance.GetService<IUnitOfWork>() : httpContextAccessor.HttpContext.RequestServices.GetService<IUnitOfWork>();
+            _unitOfWork = httpContextAccessor.HttpContext is null
+                ? ServiceLocator.Instance.GetService<IUnitOfWork>()
+                : httpContextAccessor.HttpContext.RequestServices.GetService<IUnitOfWork>();
         }
 
         public async Task Handle(UserIdentity @event)

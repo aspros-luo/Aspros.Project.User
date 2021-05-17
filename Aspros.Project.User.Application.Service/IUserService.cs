@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Aspros.Project.User.Application.Dto;
 
 namespace Aspros.Project.User.Application.Service

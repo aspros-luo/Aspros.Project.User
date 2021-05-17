@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Aspros.Project.User.Application.Commands;
-using Aspros.Project.User.Application.Dto;
 using Aspros.Project.User.Application.Queries;
 using Aspros.Project.User.Application.Service;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace Aspros.Project.User.Api.Controllers
 {
@@ -30,14 +25,14 @@ namespace Aspros.Project.User.Api.Controllers
         {
             var result = await _mediator.Send(cmd);
             // var result = await _userService.CreateUser(data);
-            return result != 0 ? Ok(new { data =result, is_successd = true }) : Ok(new { is_successd = false });
+            return result != 0 ? Ok(new {data = result, is_successd = true}) : Ok(new {is_successd = false});
         }
 
         [Route("user.get")]
         [HttpGet]
         public async Task<IActionResult> ValidUser(long id)
         {
-            var result = await _mediator.Send(new UserGetQuery() {UserId = id});
+            var result = await _mediator.Send(new UserGetQuery {UserId = id});
             return Ok(new {data = result, is_successd = true});
 
             // var user = await _userService.GetUser(id);
