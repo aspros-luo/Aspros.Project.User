@@ -10,3 +10,15 @@
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.csproj.CopyComplete
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\bin\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.deps.json
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\bin\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.dll
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\bin\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.pdb
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\bin\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.dll
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\bin\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.pdb
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.csprojAssemblyReference.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.AssemblyInfoInputs.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.AssemblyInfo.cs
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.csproj.CoreCompileInputs.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.csproj.CopyComplete
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.dll
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Service\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Service.pdb

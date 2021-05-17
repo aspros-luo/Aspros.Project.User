@@ -1,29 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application/Aspros.Project.User.Application.csproj": {}
+    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application\\Aspros.Project.User.Application.csproj": {}
   },
   "projects": {
-    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/Aspros.Project.User.Application.Dto.csproj": {
+    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Dto\\Aspros.Project.User.Application.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/Aspros.Project.User.Application.Dto.csproj",
+        "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Dto\\Aspros.Project.User.Application.Dto.csproj",
         "projectName": "Aspros.Project.User.Application.Dto",
-        "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/Aspros.Project.User.Application.Dto.csproj",
-        "packagesPath": "/Users/kk/.nuget/packages/",
-        "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/",
+        "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Dto\\Aspros.Project.User.Application.Dto.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://127.0.0.1:9001/": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,49 +52,44 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/Aspros.Project.User.Application.Service.csproj": {
+    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Service\\Aspros.Project.User.Application.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/Aspros.Project.User.Application.Service.csproj",
+        "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Service\\Aspros.Project.User.Application.Service.csproj",
         "projectName": "Aspros.Project.User.Application.Service",
-        "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/Aspros.Project.User.Application.Service.csproj",
-        "packagesPath": "/Users/kk/.nuget/packages/",
-        "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/obj/",
+        "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Service\\Aspros.Project.User.Application.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://127.0.0.1:9001/": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/Aspros.Project.User.Application.Dto.csproj": {
-                "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/Aspros.Project.User.Application.Dto.csproj"
+              "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Dto\\Aspros.Project.User.Application.Dto.csproj": {
+                "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Dto\\Aspros.Project.User.Application.Dto.csproj"
               }
             }
           }
@@ -117,55 +113,50 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application/Aspros.Project.User.Application.csproj": {
+    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application\\Aspros.Project.User.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application/Aspros.Project.User.Application.csproj",
+        "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application\\Aspros.Project.User.Application.csproj",
         "projectName": "Aspros.Project.User.Application",
-        "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application/Aspros.Project.User.Application.csproj",
-        "packagesPath": "/Users/kk/.nuget/packages/",
-        "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application/obj/",
+        "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application\\Aspros.Project.User.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://127.0.0.1:9001/": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/Aspros.Project.User.Application.Service.csproj": {
-                "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Service/Aspros.Project.User.Application.Service.csproj"
+              "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Service\\Aspros.Project.User.Application.Service.csproj": {
+                "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Service\\Aspros.Project.User.Application.Service.csproj"
               },
-              "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Repository/Aspros.Project.User.Domain.Repository.csproj": {
-                "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Repository/Aspros.Project.User.Domain.Repository.csproj"
+              "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Repository\\Aspros.Project.User.Domain.Repository.csproj": {
+                "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Repository\\Aspros.Project.User.Domain.Repository.csproj"
               },
-              "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Infrastructure.Repository/Aspros.Project.User.Infrastructure.Repository.csproj": {
-                "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Infrastructure.Repository/Aspros.Project.User.Infrastructure.Repository.csproj"
+              "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Infrastructure.Repository\\Aspros.Project.User.Infrastructure.Repository.csproj": {
+                "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Infrastructure.Repository\\Aspros.Project.User.Infrastructure.Repository.csproj"
               }
             }
           }
@@ -179,6 +170,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -189,41 +190,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/Aspros.Project.User.Domain.Events.csproj": {
+    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Events\\Aspros.Project.User.Domain.Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/Aspros.Project.User.Domain.Events.csproj",
+        "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Events\\Aspros.Project.User.Domain.Events.csproj",
         "projectName": "Aspros.Project.User.Domain.Events",
-        "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/Aspros.Project.User.Domain.Events.csproj",
-        "packagesPath": "/Users/kk/.nuget/packages/",
-        "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/obj/",
+        "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Events\\Aspros.Project.User.Domain.Events.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Events\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://127.0.0.1:9001/": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -261,49 +257,44 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Repository/Aspros.Project.User.Domain.Repository.csproj": {
+    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Repository\\Aspros.Project.User.Domain.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Repository/Aspros.Project.User.Domain.Repository.csproj",
+        "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Repository\\Aspros.Project.User.Domain.Repository.csproj",
         "projectName": "Aspros.Project.User.Domain.Repository",
-        "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Repository/Aspros.Project.User.Domain.Repository.csproj",
-        "packagesPath": "/Users/kk/.nuget/packages/",
-        "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Repository/obj/",
+        "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Repository\\Aspros.Project.User.Domain.Repository.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://127.0.0.1:9001/": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj": {
-                "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj"
+              "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\Aspros.Project.User.Domain.csproj": {
+                "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\Aspros.Project.User.Domain.csproj"
               }
             }
           }
@@ -327,52 +318,47 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj": {
+    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\Aspros.Project.User.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj",
+        "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\Aspros.Project.User.Domain.csproj",
         "projectName": "Aspros.Project.User.Domain",
-        "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj",
-        "packagesPath": "/Users/kk/.nuget/packages/",
-        "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/",
+        "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\Aspros.Project.User.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://127.0.0.1:9001/": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/Aspros.Project.User.Domain.Events.csproj": {
-                "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/Aspros.Project.User.Domain.Events.csproj"
+              "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Events\\Aspros.Project.User.Domain.Events.csproj": {
+                "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Events\\Aspros.Project.User.Domain.Events.csproj"
               },
-              "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj": {
-                "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj"
+              "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\Aspros.Project.User.Domian.ValueObject.csproj": {
+                "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\Aspros.Project.User.Domian.ValueObject.csproj"
               }
             }
           }
@@ -396,41 +382,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj": {
+    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\Aspros.Project.User.Domian.ValueObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj",
+        "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\Aspros.Project.User.Domian.ValueObject.csproj",
         "projectName": "Aspros.Project.User.Domian.ValueObject",
-        "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj",
-        "packagesPath": "/Users/kk/.nuget/packages/",
-        "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/obj/",
+        "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\Aspros.Project.User.Domian.ValueObject.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://127.0.0.1:9001/": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -458,49 +439,44 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Infrastructure.Repository/Aspros.Project.User.Infrastructure.Repository.csproj": {
+    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Infrastructure.Repository\\Aspros.Project.User.Infrastructure.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Infrastructure.Repository/Aspros.Project.User.Infrastructure.Repository.csproj",
+        "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Infrastructure.Repository\\Aspros.Project.User.Infrastructure.Repository.csproj",
         "projectName": "Aspros.Project.User.Infrastructure.Repository",
-        "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Infrastructure.Repository/Aspros.Project.User.Infrastructure.Repository.csproj",
-        "packagesPath": "/Users/kk/.nuget/packages/",
-        "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Infrastructure.Repository/obj/",
+        "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Infrastructure.Repository\\Aspros.Project.User.Infrastructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Infrastructure.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "http://127.0.0.1:9001/": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj": {
-                "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj"
+              "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\Aspros.Project.User.Domain.csproj": {
+                "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\Aspros.Project.User.Domain.csproj"
               }
             }
           }
@@ -524,18 +500,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

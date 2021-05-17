@@ -3,12 +3,11 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
 using Aspros.Project.User.BootStrapping;
 using Infrastructure.Consul.Core.Configuration;
 using Infrastructure.Ioc.Core;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
+using MediatR;
 
 namespace Aspros.Project.User.Api
 {
@@ -30,6 +29,7 @@ namespace Aspros.Project.User.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMediatR(typeof(Startup));
             services.AddSingleton(Configuration);
             //添加数据库连接
             services.Configure(
@@ -39,7 +39,7 @@ namespace Aspros.Project.User.Api
             services.AddMvc(options => { options.EnableEndpointRouting = false; })
                 .AddNewtonsoftJson(options =>
                 {
-                    options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+                    options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
                     options.SerializerSettings.DateFormatString = "yyyy-MM-dd HH:mm";
                 });
                 

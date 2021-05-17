@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Aspros.Project.User.Application.Commands;
 using Aspros.Project.User.Application.Dto;
 using Aspros.Project.User.Application.Service;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
@@ -12,19 +14,22 @@ namespace Aspros.Project.User.Api.Controllers
     [Route(Program.ServiceName)]
     public class UserController : Controller
     {
+        private readonly IMediator _mediator;
         private readonly IUserService _userService;
 
-        public UserController(IUserService userService)
+        public UserController(IUserService userService, IMediator mediator)
         {
             _userService = userService;
+            _mediator = mediator;
         }
 
         [Route("user.create")]
         [HttpPost]
-        public async Task<IActionResult> CreateUser([FromBody] CreateUserModel data)
+        public async Task<IActionResult> CreateUser([FromBody] UserCreateCommand cmd)
         {
-            var result = await _userService.CreateUser(data);
-            return Ok(new {data = "the test api", is_successd = result});
+            var result = await _mediator.Send(cmd);
+            // var result = await _userService.CreateUser(data);
+            return result != 0 ? Ok(new { data =result, is_successd = true }) : Ok(new { is_successd = false });
         }
 
         [Route("user.get")]

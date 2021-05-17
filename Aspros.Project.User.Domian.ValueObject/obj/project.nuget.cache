@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h7vTc5t4anyD6BfZBqS7cDul7KvbteAoTW6xkEEh8iMhAbLkHymJAYjZpYnkbKHTPFbmo4JYFKfl8arG2z/Kgg==",
+  "dgSpecHash": "Sh05LVElTOv2j61ep/KosNtY32WbwruxYdSGsYwKR75M/22EYuhHJ4wTKCBLZ+hGaTQLL+uMdWOqaGH4GoAGKg==",
   "success": true,
-  "projectFilePath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj",
-  "expectedPackageFiles": [
-    "/Users/kk/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\Aspros.Project.User.Domian.ValueObject.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -7,3 +7,12 @@
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.csprojAssemblyReference.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Dto\bin\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.deps.json
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Dto\bin\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.dll
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Dto\bin\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.pdb
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Dto\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.csprojAssemblyReference.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Dto\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.AssemblyInfoInputs.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Dto\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.AssemblyInfo.cs
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Dto\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.csproj.CoreCompileInputs.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Dto\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.dll
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Application.Dto\obj\Debug\netcoreapp3.1\Aspros.Project.User.Application.Dto.pdb

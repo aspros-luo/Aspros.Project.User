@@ -1580,33 +1580,36 @@
       ]
     },
     "Infrastructure.Domain.Core/1.0.5": {
-      "sha512": "4qz13yccEhxs1dxJgttMEmLF3EQnpkcb+Y3BpDGJrSSbJs+ztczsSGEyYmk/I/hloHR3ONJd80Vv1L4Y75BGQA==",
+      "sha512": "c/IbQz9mB/mznMId7ydslWzPAANzSmnwGHaLbhVTn4ERJUf3Rb5d9bKGISDxIdxVQFJaVD1uDeLQk0wqHrMHzQ==",
       "type": "package",
       "path": "infrastructure.domain.core/1.0.5",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "infrastructure.domain.core.1.0.5.nupkg.sha512",
         "infrastructure.domain.core.nuspec",
         "lib/netcoreapp3.1/Infrastructure.Domain.Core.dll"
       ]
     },
     "Infrastructure.Interfaces.Core/1.0.2": {
-      "sha512": "2JHi5erifS2mxbo/31JoKJNT35HCoEZ4slhDv8GiRb23m3NEeVhK+fgV6JEaLaJsIGKMQXi6s/PMhTGVyZJnCw==",
+      "sha512": "+9F4s53EyY/o3IHaMsnD+ob8yD9ovCDM+3Ekg3Ab7r4WoERGAoLw/vhK9jC5AhOK+st67AL5WX3s2S9GqUnNww==",
       "type": "package",
       "path": "infrastructure.interfaces.core/1.0.2",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "infrastructure.interfaces.core.1.0.2.nupkg.sha512",
         "infrastructure.interfaces.core.nuspec",
         "lib/netcoreapp3.1/Infrastructure.Interfaces.Core.dll"
       ]
     },
     "Infrastructure.Ioc.Core/1.0.1": {
-      "sha512": "noFrY1qXUGJ9kK0H5cWL/uZOR/M/dxSlVCkaUf5IDtnk8gYIfTGfazmhIcpXT6KINU6S5zBKBZQcjvGbKb146Q==",
+      "sha512": "GC/+9P9Qddp+MMPBdNb4i73nC2zABjwC0fYhsE3eXl74uFXybQYo/eTSORNN8f5nVltM/Zaof0a6LayKgWvEbg==",
       "type": "package",
       "path": "infrastructure.ioc.core/1.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "infrastructure.ioc.core.1.0.1.nupkg.sha512",
         "infrastructure.ioc.core.nuspec",
         "lib/netcoreapp3.1/Infrastructure.Ioc.Core.dll"
@@ -2160,7 +2163,6 @@
       "path": "runtime.native.system/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -2174,7 +2176,6 @@
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -2188,7 +2189,6 @@
       "path": "runtime.native.system.net.http/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -2197,7 +2197,7 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.Apple/4.3.0": {
-      "sha512": "jwjwlEL0Elv6gwoyaokRn12nv/JE+UW/DXJEbzhjCPvGbef36StnHKc9XaZD/rGWqYicrphZ7eumR/jdmNcjRg==",
+      "sha512": "DloMk88juo0OuOWr56QG7MNchmafTLYWvABy36izkrLI5VledI0rq28KGs1i9wbpeT9NPQrx/wTf8U2vazqQ3Q==",
       "type": "package",
       "path": "runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
@@ -2236,7 +2236,7 @@
       ]
     },
     "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "G2+96gYRbzp1JZCID6B+u2XJ0bs2wCubd6rE3+Tj436dKfnciF7YgsLi2VvLeJq6kxYyU4IJrVrpCvC8Yf6bhA==",
+      "sha512": "KeLz4HClKf+nFS7p/6Fi/CqyLXh81FpiGzcmuS8DGi9lUqSnZ6Es23/gv2O+1XVGfrbNmviF7CckBpavkBoIFQ==",
       "type": "package",
       "path": "runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -2249,11 +2249,12 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {
-      "sha512": "Kh9W4agE0r/hK8AX1LvyQI2NrKHBL8pO0gRoDTdDb0LL6Ta1Z2OtFx3lOaAE0ZpCUc/dt9Wzs3rA7a3IsKdOVA==",
+      "sha512": "kVXCuMTrTlxq4XOOMAysuNwsXWpYeboGddNGpIgNSZmv1b6r/s/DPk0fYMB7Q5Qo4bY68o48jt4T4y5BVecbCQ==",
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
@@ -2275,7 +2276,7 @@
       ]
     },
     "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "T5NvFgmHX0WH4c7lP72krsnk+IJI10vJf2j2twGE+5QBRA4RyRAgD+ZjEgdmpLOjW4B+nZGaadewTCUcR899OQ==",
+      "sha512": "nyFNiCk/r+VOiIqreLix8yN+q3Wga9+SE8BCgkf+2BwEKiNx6DyvFjCgkfV743/grxv8jHJ8gUK4XEQw7yzRYg==",
       "type": "package",
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -2288,7 +2289,7 @@
       ]
     },
     "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "JGc0pAWRE8lB4Ucygk2pYSKbUPLlAIq6Bczf5/WF2D/VKJEPtYlVUMxk8fbl1zRfTWzSHi+VcFZlaPlWiNxeKg==",
+      "sha512": "ytoewC6wGorL7KoCAvRfsgoJPJbNq+64k2SqW6JcOAebWsFUvCCYgfzQMrnpvPiEl4OrblUlhF2ji+Q1+SVLrQ==",
       "type": "package",
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -2386,7 +2387,6 @@
       "path": "system.buffers/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.1/.xml",
@@ -3029,7 +3029,6 @@
       "path": "system.globalization.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4071,7 +4070,6 @@
       "path": "system.reflection.typeextensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4566,7 +4564,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.3.0": {
-      "sha512": "2Z5t70a2SwMsfQDp9KOclaZNyQhfIga2gppq9lIUDM1A4ohTshn4JqT7ir8bvIhXgorWKYDAr6rPzEbi/nTGKg==",
+      "sha512": "Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
@@ -4711,7 +4709,6 @@
       "path": "system.security.cryptography.csp/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4783,7 +4780,6 @@
       "path": "system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.6/System.Security.Cryptography.OpenSsl.dll",
@@ -5255,7 +5251,6 @@
       "path": "system.threading.tasks.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll",
@@ -5478,40 +5473,41 @@
     ]
   },
   "packageFolders": {
-    "/Users/kk/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj",
+      "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\Aspros.Project.User.Domain.csproj",
       "projectName": "Aspros.Project.User.Domain",
-      "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj",
-      "packagesPath": "/Users/kk/.nuget/packages/",
-      "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain/obj/",
+      "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\Aspros.Project.User.Domain.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kk/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "http://127.0.0.1:9001/": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/Aspros.Project.User.Domain.Events.csproj": {
-              "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/Aspros.Project.User.Domain.Events.csproj"
+            "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Events\\Aspros.Project.User.Domain.Events.csproj": {
+              "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Events\\Aspros.Project.User.Domain.Events.csproj"
             },
-            "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj": {
-              "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj"
+            "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\Aspros.Project.User.Domian.ValueObject.csproj": {
+              "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\Aspros.Project.User.Domian.ValueObject.csproj"
             }
           }
         }
@@ -5535,18 +5531,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

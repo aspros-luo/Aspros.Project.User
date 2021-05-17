@@ -7,3 +7,12 @@
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.csproj.CoreCompileInputs.cache
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Domain.Events\bin\Debug\netcoreapp3.1\Aspros.Project.User.Domain.Events.deps.json
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Domain.Events\bin\Debug\netcoreapp3.1\Aspros.Project.User.Domain.Events.dll
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Domain.Events\bin\Debug\netcoreapp3.1\Aspros.Project.User.Domain.Events.pdb
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Domain.Events\obj\Debug\netcoreapp3.1\Aspros.Project.User.Domain.Events.csprojAssemblyReference.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Domain.Events\obj\Debug\netcoreapp3.1\Aspros.Project.User.Domain.Events.AssemblyInfoInputs.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Domain.Events\obj\Debug\netcoreapp3.1\Aspros.Project.User.Domain.Events.AssemblyInfo.cs
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Domain.Events\obj\Debug\netcoreapp3.1\Aspros.Project.User.Domain.Events.csproj.CoreCompileInputs.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Domain.Events\obj\Debug\netcoreapp3.1\Aspros.Project.User.Domain.Events.dll
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Domain.Events\obj\Debug\netcoreapp3.1\Aspros.Project.User.Domain.Events.pdb

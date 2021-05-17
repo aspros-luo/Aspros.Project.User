@@ -7,6 +7,7 @@ using Aspros.Project.User.Repository;
 using Infrastructure.Interfaces.Core;
 using Infrastructure.Interfaces.Core.Event;
 using Infrastructure.Interfaces.Core.Interface;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 // using Pomelo.EntityFrameworkCore.MySql.Infrastructure;

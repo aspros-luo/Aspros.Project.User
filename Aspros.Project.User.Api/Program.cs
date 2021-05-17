@@ -1,6 +1,6 @@
 using System;
 using System.Net;
-using Framework.Infrastructure.Consul.ServiceDiscovery;
+using Infrastructure.Consul.ServiceDiscovery;
 using Infrastructure.Consul;
 using Infrastructure.Consul.Core.Configuration;
 using Microsoft.AspNetCore.Hosting;

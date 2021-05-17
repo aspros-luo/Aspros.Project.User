@@ -6,3 +6,12 @@
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.csproj.CoreCompileInputs.cache
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.dll
 /Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.pdb
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Infrastructure\bin\Debug\netcoreapp3.1\Aspros.Project.User.Infrastructure.deps.json
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Infrastructure\bin\Debug\netcoreapp3.1\Aspros.Project.User.Infrastructure.dll
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Infrastructure\bin\Debug\netcoreapp3.1\Aspros.Project.User.Infrastructure.pdb
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Infrastructure\obj\Debug\netcoreapp3.1\Aspros.Project.User.Infrastructure.csprojAssemblyReference.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Infrastructure\obj\Debug\netcoreapp3.1\Aspros.Project.User.Infrastructure.AssemblyInfoInputs.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Infrastructure\obj\Debug\netcoreapp3.1\Aspros.Project.User.Infrastructure.AssemblyInfo.cs
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Infrastructure\obj\Debug\netcoreapp3.1\Aspros.Project.User.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Infrastructure\obj\Debug\netcoreapp3.1\Aspros.Project.User.Infrastructure.dll
+E:\Project\aspros-luo\Aspros.Project.User\Aspros.Project.User.Infrastructure\obj\Debug\netcoreapp3.1\Aspros.Project.User.Infrastructure.pdb
