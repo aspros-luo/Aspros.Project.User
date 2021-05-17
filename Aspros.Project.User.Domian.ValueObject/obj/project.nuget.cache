@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sh05LVElTOv2j61ep/KosNtY32WbwruxYdSGsYwKR75M/22EYuhHJ4wTKCBLZ+hGaTQLL+uMdWOqaGH4GoAGKg==",
+  "dgSpecHash": "5TX36Bp1Mu1IPxdOSCwvVs1Oc/SiyY4T974BFVL1e6H+yjUj/EUabNy2JitNENyfarItW5uGqiZ3bm+d4Xd7lQ==",
   "success": true,
-  "projectFilePath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domian.ValueObject\\Aspros.Project.User.Domian.ValueObject.csproj",
+  "projectFilePath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

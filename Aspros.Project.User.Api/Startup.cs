@@ -1,4 +1,6 @@
 
+using Aspros.Project.User.Application.Commands;
+using Aspros.Project.User.Application.Queries;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -29,7 +31,8 @@ namespace Aspros.Project.User.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMediatR(typeof(Startup));
+            services.AddMediatR(typeof(UserGetQuery));
+            services.AddMediatR(typeof(UserCreateCommand));
             services.AddSingleton(Configuration);
             //添加数据库连接
             services.Configure(

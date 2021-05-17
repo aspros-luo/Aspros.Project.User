@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pXRcp0tTvT/dPUVFX/AHsF9Mtl3wO+GUyNGmfpSLb/8qV9h/lBIY3UCn+i8lQ783i5+BHNYt0BOONJMKDeGzQA==",
+  "dgSpecHash": "nCo96CsVmv0ARWLrGQ7cV+zMdF7EHl8OJfvDPtKAxHgCYNe1xgqxMkJi2XFHoBhehHEwaNOq5mAHEu0iuYWVvA==",
   "success": true,
-  "projectFilePath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Application.Dto\\Aspros.Project.User.Application.Dto.csproj",
+  "projectFilePath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Application.Dto/Aspros.Project.User.Application.Dto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -27,7 +27,12 @@
       <e p="Aspros.Project.User.Application" t="IncludeRecursive">
         <e p="Aspros.Project.User.Application.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="IUserService.cs" t="Include" />
+        <e p="Commands" t="Include">
+          <e p="Handlers" t="Include">
+            <e p="UserCreateCommandHandler.cs" t="Include" />
+          </e>
+          <e p="UserCreateCommand.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
@@ -35,6 +40,13 @@
             </e>
           </e>
         </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include">
+            <e p="UserGetQueryHandler.cs" t="Include" />
+          </e>
+          <e p="UserGetQuery.cs" t="Include" />
+        </e>
+        <e p="UserService.cs" t="Include" />
       </e>
       <e p="Aspros.Project.User.Application.Dto" t="IncludeRecursive">
         <e p="Aspros.Project.User.Application.Dto.csproj" t="IncludeRecursive" />
@@ -47,6 +59,7 @@
             </e>
           </e>
         </e>
+        <e p="UserDTO.cs" t="Include" />
       </e>
       <e p="Aspros.Project.User.Application.Service" t="IncludeRecursive">
         <e p="Aspros.Project.User.Application.Service.csproj" t="IncludeRecursive" />

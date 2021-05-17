@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Service\\Aspros.Project.User.Domain.Service.csproj": {}
+    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Service/Aspros.Project.User.Domain.Service.csproj": {}
   },
   "projects": {
-    "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Service\\Aspros.Project.User.Domain.Service.csproj": {
+    "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Service/Aspros.Project.User.Domain.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Service\\Aspros.Project.User.Domain.Service.csproj",
+        "projectUniqueName": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Service/Aspros.Project.User.Domain.Service.csproj",
         "projectName": "Aspros.Project.User.Domain.Service",
-        "projectPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Service\\Aspros.Project.User.Domain.Service.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\aspros-luo\\Aspros.Project.User\\Aspros.Project.User.Domain.Service\\obj\\",
+        "projectPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Service/Aspros.Project.User.Domain.Service.csproj",
+        "packagesPath": "/Users/kk/.nuget/packages/",
+        "outputPath": "/Users/kk/Documents/Dotnet/Aspros.Project.User/Aspros.Project.User.Domain.Service/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/kk/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,553 +5,318 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b0316d5-a7f8-4e74-9811-a3ed826050c7" name="Default Changelist" comment="init 1">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Aspros.Project.User/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Aspros.Project.User.Api.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/HealthController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/UserController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Api.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Api.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Api.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Api.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.BootStrapping.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.BootStrapping.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Aspros.Project.User.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/AutoMapper.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/DotNetCore.CAP.MySql.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/DotNetCore.CAP.RabbitMQ.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/DotNetCore.CAP.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/IdentityModel.AspNetCore.OAuth2Introspection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/IdentityModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/IdentityServer4.AccessTokenValidation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Infrastructure.Consul.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Infrastructure.Consul.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Infrastructure.Domain.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Infrastructure.Interfaces.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Infrastructure.Ioc.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Caching.Redis.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Options.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.Identity.Client.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Microsoft.OpenApi.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/MySqlConnector.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/RabbitMQ.Client.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/StackExchange.Redis.StrongName.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/System.Collections.Immutable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/System.ComponentModel.Annotations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/jose-jwt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/ref/Aspros.Project.User.Api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Aspros.Project.User.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Aspros.Project.User.Api.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Aspros.Project.User.Api.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/Aspros.Project.User.Api.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/ref/Aspros.Project.User.Api.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/staticwebassets/Aspros.Project.User.Api.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/net5.0/staticwebassets/Aspros.Project.User.Api.StaticWebAssets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/Aspros.Project.User.Application.Dto.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/CreateUserModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/bin/Debug/net5.0/Aspros.Project.User.Application.Dto.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/bin/Debug/net5.0/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/bin/Debug/net5.0/Aspros.Project.User.Application.Dto.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/bin/Debug/net5.0/ref/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Aspros.Project.User.Application.Dto.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Aspros.Project.User.Application.Dto.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Aspros.Project.User.Application.Dto.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/Aspros.Project.User.Application.Dto.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/net5.0/ref/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/Aspros.Project.User.Application.Service.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/IUserService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/net5.0/Aspros.Project.User.Application.Service.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/net5.0/Aspros.Project.User.Application.Service.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/net5.0/Aspros.Project.User.Application.Service.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/net5.0/ref/Aspros.Project.User.Application.Service.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Aspros.Project.User.Application.Service.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Aspros.Project.User.Application.Service.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Aspros.Project.User.Application.Service.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/Aspros.Project.User.Application.Service.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/Aspros.Project.User.Application.Service.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/Aspros.Project.User.Application.Service.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/Aspros.Project.User.Application.Service.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/Aspros.Project.User.Application.Service.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/Aspros.Project.User.Application.Service.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/Aspros.Project.User.Application.Service.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/Aspros.Project.User.Application.Service.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/net5.0/ref/Aspros.Project.User.Application.Service.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/Aspros.Project.User.Application.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/IUserService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/net5.0/Aspros.Project.User.Application.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/net5.0/Aspros.Project.User.Application.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/net5.0/Aspros.Project.User.Application.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/net5.0/ref/Aspros.Project.User.Application.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Aspros.Project.User.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Aspros.Project.User.Application.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Aspros.Project.User.Application.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/Aspros.Project.User.Application.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/Aspros.Project.User.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/Aspros.Project.User.Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/Aspros.Project.User.Application.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/Aspros.Project.User.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/Aspros.Project.User.Application.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/Aspros.Project.User.Application.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/Aspros.Project.User.Application.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/net5.0/ref/Aspros.Project.User.Application.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/Aspros.Project.User.BootStrapping.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.BootStrapping.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.BootStrapping.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.BootStrapping.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/Aspros.Project.User.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/net5.0/ref/Aspros.Project.User.BootStrapping.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Aspros.Project.User.BootStrapping.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Aspros.Project.User.BootStrapping.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Aspros.Project.User.BootStrapping.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/Aspros.Project.User.BootStrapping.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/net5.0/ref/Aspros.Project.User.BootStrapping.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/Aspros.Project.User.Domain.EventHandlers.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/UserEventHanler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/net5.0/ref/Aspros.Project.User.Domain.EventHandlers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHandlers.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHandlers.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHandlers.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHanlders.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHanlders.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHanlders.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHandlers.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHanlders.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHanlders.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHanlders.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/Aspros.Project.User.Domain.EventHanlders.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/net5.0/ref/Aspros.Project.User.Domain.EventHandlers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/Aspros.Project.User.Domain.Events.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/UserIdentity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/net5.0/ref/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Aspros.Project.User.Domain.Events.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Aspros.Project.User.Domain.Events.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Aspros.Project.User.Domain.Events.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/Aspros.Project.User.Domain.Events.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/Aspros.Project.User.Domain.Events.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/Aspros.Project.User.Domain.Events.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/Aspros.Project.User.Domain.Events.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/Aspros.Project.User.Domain.Events.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/Aspros.Project.User.Domain.Events.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/Aspros.Project.User.Domain.Events.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/net5.0/ref/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/Aspros.Project.User.Domain.Repository.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/IUserRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Repository.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/net5.0/ref/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Aspros.Project.User.Domain.Repository.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Aspros.Project.User.Domain.Repository.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Aspros.Project.User.Domain.Repository.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/net5.0/ref/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/Aspros.Project.User.Domain.Service.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/bin/Debug/net5.0/Aspros.Project.User.Domain.Service.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/bin/Debug/net5.0/Aspros.Project.User.Domain.Service.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/bin/Debug/net5.0/Aspros.Project.User.Domain.Service.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/bin/Debug/net5.0/ref/Aspros.Project.User.Domain.Service.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.Domain.Service.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.Domain.Service.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.Domain.Service.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.DomainService.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.DomainService.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.DomainService.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.Domain.Service.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.Domain.Service.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.Domain.Service.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.Domain.Service.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.Domain.Service.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.Domain.Service.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.Domain.Service.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.Domain.Service.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.DomainService.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.DomainService.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.DomainService.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/Aspros.Project.User.DomainService.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/net5.0/ref/Aspros.Project.User.Domain.Service.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/Aspros.Project.User.Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/net5.0/ref/Aspros.Project.User.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Aspros.Project.User.Domain.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Aspros.Project.User.Domain.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Aspros.Project.User.Domain.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/Aspros.Project.User.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/net5.0/ref/Aspros.Project.User.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/Aspros.Project.User.Domian.ValueObject.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/bin/Debug/net5.0/ref/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.Domian.ValueObject.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.Domian.ValueObject.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.Domian.ValueObject.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.ValueObject.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.ValueObject.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.ValueObject.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.ValueObject.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.ValueObject.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.ValueObject.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/Aspros.Project.User.ValueObject.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/net5.0/ref/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/Aspros.Project.User.Infrastructure.Repository.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/Mappings/UserIdentityMap.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/Mappings/UserMap.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/ModelBuilderExtenions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/UserDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/net5.0/ref/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Aspros.Project.User.Infrastructure.Repository.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Aspros.Project.User.Infrastructure.Repository.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Aspros.Project.User.Infrastructure.Repository.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/net5.0/ref/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/Aspros.Project.User.Infrastructure.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/bin/Debug/net5.0/ref/Aspros.Project.User.Infrastructure.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Aspros.Project.User.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Aspros.Project.User.Infrastructure.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Aspros.Project.User.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/Aspros.Project.User.Infrastructure.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/net5.0/ref/Aspros.Project.User.Infrastructure.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/Aspros.Project.User.Repository.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/UserRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Repository.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/Aspros.Project.User.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/net5.0/ref/Aspros.Project.User.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Aspros.Project.User.Repository.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Aspros.Project.User.Repository.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Aspros.Project.User.Repository.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/Aspros.Project.User.Repository.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/net5.0/ref/Aspros.Project.User.Repository.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/Queries/Handlers/UserGetQueryHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/Queries/UserGetQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aspros.Project.User/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aspros.Project.User/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aspros.Project.User/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aspros.Project.User/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/Aspros.Project.User.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Aspros.Project.User.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/UserController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Api.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Api.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Api.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Api.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Consul.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Consul.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Consul.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Consul.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Domain.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Domain.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Interfaces.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Interfaces.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Ioc.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Infrastructure.Ioc.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/MediatR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/MediatR.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Aspros.Project.User.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Aspros.Project.User.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Aspros.Project.User.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Aspros.Project.User.Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Aspros.Project.User.Api.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Aspros.Project.User.Api.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/Debug/netcoreapp3.1/Aspros.Project.User.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Aspros.Project.User.Application.Dto.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Aspros.Project.User.Application.Dto.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Aspros.Project.User.Application.Dto.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Aspros.Project.User.Application.Dto.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Aspros.Project.User.Application.Service.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Aspros.Project.User.Application.Service.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Aspros.Project.User.Application.Service.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Aspros.Project.User.Application.Service.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application.Service/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Aspros.Project.User.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Aspros.Project.User.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Aspros.Project.User.Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Aspros.Project.User.Application.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/Debug/netcoreapp3.1/Aspros.Project.User.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Dto.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Aspros.Project.User.BootStrapping.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Aspros.Project.User.BootStrapping.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Aspros.Project.User.BootStrapping.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Aspros.Project.User.BootStrapping.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/Debug/netcoreapp3.1/Aspros.Project.User.BootStrapping.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHandlers.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHandlers.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHandlers.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Aspros.Project.User.Domain.EventHandlers.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.EventHandlers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Aspros.Project.User.Domain.Events.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Aspros.Project.User.Domain.Events.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Aspros.Project.User.Domain.Events.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Aspros.Project.User.Domain.Events.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Aspros.Project.User.Domain.Repository.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Aspros.Project.User.Domain.Repository.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Aspros.Project.User.Domain.Repository.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Aspros.Project.User.Domain.Repository.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Repository/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.Domain.Service.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.Domain.Service.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.Domain.Service.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Aspros.Project.User.Domain.Service.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain.Service/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Aspros.Project.User.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Aspros.Project.User.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Aspros.Project.User.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Aspros.Project.User.Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.Domian.ValueObject.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.Domian.ValueObject.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.Domian.ValueObject.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Aspros.Project.User.Domian.ValueObject.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Domian.ValueObject/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Aspros.Project.User.Infrastructure.Repository.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Aspros.Project.User.Infrastructure.Repository.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Aspros.Project.User.Infrastructure.Repository.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Aspros.Project.User.Infrastructure.Repository.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Aspros.Project.User.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Aspros.Project.User.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Aspros.Project.User.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Aspros.Project.User.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Events.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Domian.ValueObject.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Infrastructure.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/bin/Debug/netcoreapp3.1/Aspros.Project.User.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Aspros.Project.User.Repository.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Aspros.Project.User.Repository.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Aspros.Project.User.Repository.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Aspros.Project.User.Repository.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/Debug/netcoreapp3.1/Aspros.Project.User.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aspros.Project.User.Repository/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -563,14 +328,17 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1FE25CF-05B4-40E8-AFFA-BAB42BF9522D/8/CallSiteFactory.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/UserEventHanler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1FE25CF-05B4-40E8-AFFA-BAB42BF9522D/1E/ServiceProviderEngine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FAF91EAF-0C6A-4596-962E-C1044229D107/2/ServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1FE25CF-05B4-40E8-AFFA-BAB42BF9522D/3/DependencyInjectionEventSource.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Aspros.Project.User.BootStrapping/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/25F2090A-91E2-4688-84FF-17D52E82988C/cb/c3b1f0bb/IServiceRegister.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/42ED81B8-4EA6-4A20-9C8A-62C83D9D73F9/1C5/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5AED14D4-8F76-4E4F-80EB-584643057B28/1D8/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Aspros.Project.User.BootStrapping/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3834795B-F41B-4E62-8161-509ECA0F5822/38/ecd925ed/ISender.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Aspros.Project.User.Domain.EventHandlers/UserEventHanler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/42ED81B8-4EA6-4A20-9C8A-62C83D9D73F9/17/Array.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/42ED81B8-4EA6-4A20-9C8A-62C83D9D73F9/228/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5AED14D4-8F76-4E4F-80EB-584643057B28/1D8/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D0418650-4192-493B-B19E-A11674CF3C25/20/WebHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1FE25CF-05B4-40E8-AFFA-BAB42BF9522D/10/ConstructorCallSite.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -609,18 +377,23 @@
       <option value="$PROJECT_DIR$/Aspros.Project.User.Infrastructure/Aspros.Project.User.Infrastructure.csproj" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.Infrastructure.Repository/Aspros.Project.User.Infrastructure.Repository.csproj" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.Repository/Aspros.Project.User.Repository.csproj" />
-      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Aspros.Project.User.Api.csproj" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.Domain.Events/Aspros.Project.User.Domain.Events.csproj" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/Aspros.Project.User.BootStrapping.csproj" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.Application.Dto/CreateUserModel.cs" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.BootStrapping/Startup.cs" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.Application.Service/IUserService.cs" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.Application/IUserService.cs" />
-      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/UserController.cs" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/HealthController.cs" />
-      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Program.cs" />
-      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Startup.cs" />
       <option value="$PROJECT_DIR$/Aspros.Project.User.Repository/UserRepository.cs" />
+      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Aspros.Project.User.Api.csproj" />
+      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Properties/launchSettings.json" />
+      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/appsettings.json" />
+      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/appsettings.Development.json" />
+      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Program.cs" />
+      <option value="$PROJECT_DIR$/Aspros.Project.User.Application/Queries/UserGetQuery.cs" />
+      <option value="$PROJECT_DIR$/Aspros.Project.User.Application/Queries/Handlers/UserGetQueryHandler.cs" />
+      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/UserController.cs" />
+      <option value="$PROJECT_DIR$/Aspros.Project.User.Api/Startup.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1prwxJBE1NlCscrpBIba3DbyH8d" />
@@ -641,7 +414,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.CSharpInteractiveConfiguration" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Aspros.Project.User.Api">
@@ -685,6 +458,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615954762704</updated>
       <workItem from="1615954768076" duration="18788000" />
+      <workItem from="1621262819397" duration="6299000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1616297549458</created>
@@ -699,8 +473,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -713,18 +498,35 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/UserController.cs</url>
-          <line>25</line>
-          <properties documentPath="$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/UserController.cs" initialLine="25" containingFunctionPresentation="method 'CreateUser'">
+          <line>30</line>
+          <properties documentPath="$PROJECT_DIR$/Aspros.Project.User.Api/Controllers/UserController.cs" initialLine="29" containingFunctionPresentation="method 'CreateUser'">
             <startOffsets>
-              <option value="715" />
+              <option value="926" />
             </startOffsets>
             <endOffsets>
-              <option value="764" />
+              <option value="965" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Aspros.Project.User.Application/Commands/Handlers/UserCreateCommandHandler.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/Aspros.Project.User.Application/Commands/Handlers/UserCreateCommandHandler.cs" initialLine="20" containingFunctionPresentation="method 'Handle'">
+            <startOffsets>
+              <option value="747" />
+            </startOffsets>
+            <endOffsets>
+              <option value="810" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
